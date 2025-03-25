@@ -21,3 +21,13 @@ La cocina italiana es famosa en todo el mundo por su enfoque en ingredientes fre
 - Limoncello: Licor de limón originario del sur de Italia.
 
 - Cappuccino: Café espresso con leche espumada, ideal para las mañanas.
+
+## Consejos y sugerencias
+
+- Para una auténtica experiencia italiana, usa ingredientes de calidad como tomates San Marzano y aceite de oliva extra virgen.
+
+- No agregues queso rallado a los platos de mariscos, ya que en Italia no es una práctica común.
+
+- La pasta debe cocinarse “al dente” para mantener su textura y sabor original.
+
+- Acompaña tus comidas con pan artesanal y un buen vino italiano.
