@@ -13,3 +13,14 @@ La cocina china es una de las más antiguas y diversas del mundo, con una gran v
 
 - Mapo Tofu: Tofu en salsa picante con carne de cerdo y especias de Sichuan.
 
+## Bebidas recomendadas
+
+- Té Verde Chino: Bebida tradicional con propiedades antioxidantes.
+
+- Baijiu: Licor fuerte a base de sorgo, muy popular en China.
+
+- Suānméitāng: Bebida dulce y ácida hecha con ciruelas secas, ideal para refrescarse.
+
+- Leche de Soja: Bebida vegetal suave, consumida tanto caliente como fría.
+
+
