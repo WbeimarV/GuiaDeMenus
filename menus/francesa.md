@@ -12,3 +12,13 @@ La cocina francesa es sinónimo de elegancia, refinamiento y tradición. Se basa
 - Ratatouille: Estofado de vegetales como berenjena, calabacín y tomate, cocinado con hierbas provenzales.
 
 - Boeuf Bourguignon: Estofado de carne de res cocida en vino tinto con zanahorias, cebollas y champiñones.
+
+## Bebidas recomendadas
+
+- Vino Tinto Bordeaux: Perfecto para acompañar carnes y guisos.
+
+- Champagne: Bebida espumosa ideal para celebraciones.
+
+- Pastis: Aperitivo anisado muy popular en el sur de Francia.
+
+- Café au Lait: Café con leche, clásico en los desayunos franceses.
