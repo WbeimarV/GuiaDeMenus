@@ -23,3 +23,12 @@ La cocina mediterránea es conocida por su enfoque en ingredientes frescos y sal
 
 - Té de Hierbas: Infusión con romero, tomillo o manzanilla para una digestión saludable.
 
+## Consejos y sugerencias
+
+Usa aceite de oliva extra virgen para resaltar los sabores de los platos.
+
+Acompaña las comidas con pan rústico o tostadas de pita.
+
+Incorpora frutos secos y aceitunas para añadir textura y sabor a las recetas.
+
+Para un postre típico, prueba el baklava o el yogur con miel y nueces.
