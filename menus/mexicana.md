@@ -10,3 +10,13 @@ La cocina mexicana es una de las más vibrantes y variadas del mundo, con raíce
 - Chiles en Nogada: Chiles poblanos rellenos de picadillo, cubiertos con salsa de nuez y granada.
 
 - Pozole: Sopa espesa de maíz hominy con carne de cerdo o pollo, acompañada de rábanos, lechuga y orégano.
+
+## Bebidas recomendadas
+
+- Tequila: Destilado de agave, ideal para degustar solo o en cócteles.
+
+- Mezcal: Similar al tequila, pero con un sabor más ahumado y artesanal.
+
+- Agua de Horchata: Bebida refrescante de arroz con canela y vainilla.
+
+- Michelada: Cerveza preparada con limón, sal, salsas y especias.
