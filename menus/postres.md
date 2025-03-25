@@ -23,3 +23,20 @@ La repostería es el arte de combinar ingredientes como azúcar, harina, frutas 
 
 - Lassi de Mango: Bebida cremosa de yogur y mango, refrescante y dulce.
 
+## Consejos y sugerencias
+
+- Usa ingredientes frescos como frutas de temporada para potenciar el sabor de los postres.
+
+- Deja enfriar bien las tartas y cheesecakes antes de servir para una mejor textura.
+
+- Decora con hierbas aromáticas como menta o ralladura de cítricos para un toque especial.
+
+- Experimenta con endulzantes naturales como miel, dátiles o stevia para opciones más saludables.
+
+
+
+
+
+
+
+
