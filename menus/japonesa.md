@@ -13,3 +13,13 @@ La cocina japonesa se basa en la simplicidad, el equilibrio y el respeto por los
 - Tempura: Mariscos y vegetales fritos en una ligera y crujiente capa de rebozado.
 
 - Okonomiyaki: Panqueque salado japonés con repollo, carne o mariscos, cubierto con salsa especial y mayonesa japonesa.
+
+## Bebidas recomendadas
+
+- Sake: Bebida alcohólica tradicional a base de arroz fermentado, servida caliente o fría.
+
+- Té Verde Matcha: Té en polvo con un sabor umami profundo y propiedades antioxidantes.
+
+- Shochu: Destilado japonés con un contenido alcohólico más bajo que el sake, ideal para acompañar comidas.
+
+- Ramune: Refresco japonés con una botella icónica de bolita de vidrio en su interior.
