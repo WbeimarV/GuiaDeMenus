@@ -13,3 +13,13 @@ La cocina india es una explosión de sabores, aromas y especias. Se caracteriza 
 - Dal Tadka: Lentejas cocidas con ajo, jengibre y un toque de especias, servidas con arroz o pan.
 
 - Paneer Tikka: Cubos de queso paneer marinados en yogur y especias, asados en tandoor.
+
+## Bebidas recomendadas
+
+- Lassi: Bebida refrescante de yogur con sabores como mango o cardamomo.
+
+- Chai Masala: Té negro especiado con canela, jengibre y clavo.
+
+- Thandai: Bebida fría con leche, almendras y especias aromáticas.
+
+- Feni: Destilado tradicional de anacardo o coco, originario de Goa.
