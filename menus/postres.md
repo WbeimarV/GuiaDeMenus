@@ -12,3 +12,14 @@ La repostería es el arte de combinar ingredientes como azúcar, harina, frutas 
 - Brownies de Chocolate: Pequeñas porciones de bizcocho denso y húmedo con intenso sabor a chocolate.
 
 - Crème Brûlée: Crema horneada con una capa de azúcar caramelizada en la superficie.
+
+## Bebidas recomendadas
+
+- Café Espresso: Perfecto para equilibrar la dulzura de los postres.
+
+- Vino Dulce Moscatel: Acompañante ideal para postres con frutas y cremas.
+
+- Chocolate Caliente Especiado: Bebida espesa con canela y vainilla, ideal para brownies y galletas.
+
+- Lassi de Mango: Bebida cremosa de yogur y mango, refrescante y dulce.
+
