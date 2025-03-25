@@ -20,3 +20,13 @@ La cocina mexicana es una de las más vibrantes y variadas del mundo, con raíce
 - Agua de Horchata: Bebida refrescante de arroz con canela y vainilla.
 
 - Michelada: Cerveza preparada con limón, sal, salsas y especias.
+
+## Consejos y sugerencias
+
+- Usa tortillas de maíz frescas para una experiencia más auténtica.
+
+- No temas probar los diferentes niveles de picante en los chiles, ya que cada uno aporta un sabor único.
+
+- Acompaña tus comidas con salsas caseras de diferentes intensidades para realzar los sabores.
+
+- Para un auténtico postre mexicano, prueba los churros con chocolate caliente o un pan de elote.
