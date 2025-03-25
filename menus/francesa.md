@@ -22,3 +22,13 @@ La cocina francesa es sinónimo de elegancia, refinamiento y tradición. Se basa
 - Pastis: Aperitivo anisado muy popular en el sur de Francia.
 
 - Café au Lait: Café con leche, clásico en los desayunos franceses.
+
+## Consejos y sugerencias
+
+- Acompaña tus platos con una baguette fresca para disfrutar de la auténtica experiencia francesa.
+
+- Los quesos franceses, como el camembert o el roquefort, son ideales para un aperitivo o postre.
+
+- La cocina francesa valora la presentación, así que cuida la estética de tus platos.
+
+- Para un postre clásico, prueba un crème brûlée o un pain au chocolat.
