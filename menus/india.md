@@ -23,3 +23,13 @@ La cocina india es una explosión de sabores, aromas y especias. Se caracteriza 
 - Thandai: Bebida fría con leche, almendras y especias aromáticas.
 
 - Feni: Destilado tradicional de anacardo o coco, originario de Goa.
+
+## Consejos y sugerencias
+
+- Usa ghee (mantequilla clarificada) para darle un auténtico sabor indio a tus platillos.
+
+- La comida india suele servirse con arroz basmati o pan naan para acompañar los guisos.
+
+- Para equilibrar el picante, agrega un poco de yogur natural a tus platos.
+
+- Prueba postres tradicionales como el gulab jamun (bolitas de leche frita en almíbar) o el kheer (arroz con leche especiado).
