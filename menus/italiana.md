@@ -11,3 +11,13 @@ La cocina italiana es famosa en todo el mundo por su enfoque en ingredientes fre
 - Pizza Margherita: Masa crujiente con tomate, mozzarella fresca y hojas de albahaca.
 
 - Ossobuco alla Milanese: Jarrete de ternera cocinado a fuego lento con vino blanco y tomate.
+
+## Bebidas recomendadas
+
+- Vino Chianti: Un clásico vino tinto toscano con notas afrutadas y especiadas.
+
+- Aperol Spritz: Refrescante cóctel a base de Aperol, prosecco y soda.
+
+- Limoncello: Licor de limón originario del sur de Italia.
+
+- Cappuccino: Café espresso con leche espumada, ideal para las mañanas.
