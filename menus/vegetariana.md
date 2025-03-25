@@ -12,3 +12,13 @@ Curry de Garbanzos: Guiso especiado con leche de coco, garbanzos, espinacas y c�
 Lasagna de Berenjena: Capas de berenjena, tomate y queso ricotta horneadas con salsa de albahaca.
 
 Hamburguesa de Lentejas: Hamburguesa casera hecha con lentejas, avena y especias, servida en pan integral.
+
+## Bebidas recomendadas
+
+Batido Verde Detox: Mezcla de espinacas, manzana, pepino y jengibre.
+
+Agua de Coco: Hidratante natural y rica en electrolitos.
+
+Té Chai con Leche de Almendras: Bebida especiada y reconfortante.
+
+Kombucha: Bebida fermentada con probióticos naturales. 
