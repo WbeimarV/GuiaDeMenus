@@ -23,4 +23,12 @@ La cocina china es una de las más antiguas y diversas del mundo, con una gran v
 
 - Leche de Soja: Bebida vegetal suave, consumida tanto caliente como fría.
 
+## Consejos y sugerencias
 
+- Usa palillos para disfrutar la comida de manera más auténtica.
+
+- Para realzar el sabor, combina los platos con salsas como la de soya, la de ostras o la de ajonjolí.
+
+- Prueba diferentes métodos de cocción, como el wok para salteados rápidos o el vapor para dumplings.
+
+- Para un postre chino clásico, prueba los bollos de sésamo rellenos de pasta de frijol rojo o los pasteles de luna.
