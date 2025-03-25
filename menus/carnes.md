@@ -24,3 +24,12 @@ La cocina basada en carnes ofrece una gran variedad de preparaciones que destaca
 
 - Limonada con Romero: Refrescante y aromática, perfecta para cortes de cerdo.
 
+## Consejos y sugerencias
+
+- Deja reposar la carne después de cocinarla para que los jugos se redistribuyan.
+
+- Usa marinadas con hierbas y especias para realzar el sabor de los cortes.
+
+- Prueba diferentes métodos de cocción como ahumado, braseado o sous-vide.
+
+- Para un toque especial, acompaña con salsas como chimichurri, mostaza antigua o reducción de vino tinto.
