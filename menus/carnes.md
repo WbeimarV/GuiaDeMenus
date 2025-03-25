@@ -13,3 +13,14 @@ La cocina basada en carnes ofrece una gran variedad de preparaciones que destaca
 - Estofado de Res: Guiso de carne de res con papas, zanahorias y un caldo espeso y sabroso.
 
 - Cordero al Horno con Hierbas: Pierna de cordero marinada con ajo, romero y vino tinto, asada lentamente.
+
+## Bebidas recomendadas
+
+- Vino Malbec: Perfecto para acompañar carnes rojas intensas.
+
+- Cerveza Negra: Su sabor tostado complementa guisos y carnes a la parrilla.
+
+- Whisky Ahumado: Ideal para carnes con sabores fuertes y especiados.
+
+- Limonada con Romero: Refrescante y aromática, perfecta para cortes de cerdo.
+
